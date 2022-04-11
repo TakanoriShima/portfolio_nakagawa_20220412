@@ -35,7 +35,7 @@ $(function(){
         // 入力値検証
         validate(){
             
-            $('span').remove();
+            $('#form span').remove();
             
             let flag = true;
             
